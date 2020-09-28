@@ -919,8 +919,8 @@ for (let i = 0; i < list.length; i++) {
 **[⬆ Kembali ke atas](#daftar-isi)**
 
 ### Hapus kode mati
-Kode yg mati akan seburuk kode yang duplikat. Tidak ada alasan untuk menyimpannya
-dalam basis kode-mu. Jika tidak dipanggil, maka buang saja! Itu akan tetap amazon
+Kode yg mati akan sama buruknya dengan kode yang duplikat. Tidak ada alasan untuk menyimpannya
+dalam basis kode-mu. Bisa dibuang jika tidak digunakan, kode akan tetap tersimpan
 di "version history" jika kamu membutuhkannya lagi.
 
 **Buruk:**
